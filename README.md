@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jatin Bansal
 
 🎯 Engineering Lead @ Pluang  
-💡 Java | Distributed Systems | Backend Engineering
+💡 Distributed Systems | Backend Engineering
 
 ---
 
@@ -22,6 +22,8 @@ I’m a backend engineer who loves building high-performance systems, simplifyin
 
 ### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### 🧱 Frameworks
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -37,6 +39,13 @@ I’m a backend engineer who loves building high-performance systems, simplifyin
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![New Relic](https://img.shields.io/badge/New%20Relic-008C99?style=for-the-badge&logo=new-relic&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+- [jenkins-cli-ts](https://github.com/jatinbansal1998/jenkins-cli-ts) - TypeScript CLI project for working with Jenkins.
+- [zerodha-kite-cli](https://github.com/jatinbansal1998/zerodha-kite-cli) - CLI project for Zerodha Kite workflows.
 
 ---
 

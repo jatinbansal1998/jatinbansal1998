@@ -56,6 +56,13 @@ I write about system design, distributed systems, and engineering insights over 
 
 ---
 
-<!-- Optional GitHub stats
-![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jatin-bansal-21&show_icons=true&theme=radical)
--->
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jatinbansal1998&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinbansal1998&layout=compact&theme=dark&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jatinbansal1998&theme=dark&hide_border=true" />
+</p>
